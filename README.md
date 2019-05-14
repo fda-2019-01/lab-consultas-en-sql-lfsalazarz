@@ -1,4 +1,4 @@
-# LAB: Programación en realización de consultas usando sQL
+# LAB: Programación en realización de consultas usando SQL
 
 Este laboratorio tiene como fin que usted ponga en práctica sus conocimientos sobre la realización de consultas en SQL estándar. Realice las tareas propuestas en cada uno de los archivos `q*.sql`.
 

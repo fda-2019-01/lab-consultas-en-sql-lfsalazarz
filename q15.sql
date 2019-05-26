@@ -4,4 +4,7 @@
 ## en la tabla tbl1, para aquellos registros con c13 mayor
 ## a 400.
 ##
-
+SELECT k0, avg(c21)
+FROM tbl1 NATURAL JOIN tbl2
+WHERE c13 > 400
+GROUP BY k0;
